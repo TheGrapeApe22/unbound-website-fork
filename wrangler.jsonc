@@ -16,4 +16,12 @@
 		"enabled": true
 	},
 	"upload_source_maps": true
+
+	  "routes": [
+	    {
+	      "pattern": "unbound-drones.org",
+	      "custom_domain": true
+	    }
+	  ]
+
 }
