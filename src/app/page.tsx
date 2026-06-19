@@ -368,7 +368,7 @@ export default function Home() {
 								</a>
 								<a
 									className="btn btn-secondary"
-									href="https://instagram.com/"
+									href="https://www.instagram.com/unbounddrones"
 									target="_blank"
 									rel="noopener noreferrer"
 								>
